@@ -1,6 +1,7 @@
 # QPlugged
 
 [![License](https://img.shields.io/github/license/QPlugged/QPlugged)](https://github.com/QPlugged/QPlugged) [![Download](https://img.shields.io/github/downloads/QPlugged/QPlugged/total)](https://github.com/QPlugged/QPlugged/releases) [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/qqntim_chat)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FQPlugged%2FQPlugged.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FQPlugged%2FQPlugged?ref=badge_shield)
 
 一个支持所有桌面平台的 IM 前端界面。
 
@@ -32,3 +33,7 @@ QPlugged 使用 [语义化版本 2.0.0](https://semver.org/)。
 # 许可证
 
 [AGPL-3.0-or-later](LICENSE.txt)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FQPlugged%2FQPlugged.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FQPlugged%2FQPlugged?ref=badge_large)
